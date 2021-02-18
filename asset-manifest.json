@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.31314469.chunk.css",
-    "main.js": "/react-deploy/static/js/main.49ac0eb1.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.49ac0eb1.chunk.js.map",
-    "runtime-main.js": "/react-deploy/static/js/runtime-main.d8d8e8d8.js",
-    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.d8d8e8d8.js.map",
-    "static/js/2.d6c01270.chunk.js": "/react-deploy/static/js/2.d6c01270.chunk.js",
-    "static/js/2.d6c01270.chunk.js.map": "/react-deploy/static/js/2.d6c01270.chunk.js.map",
-    "index.html": "/react-deploy/index.html",
-    "precache-manifest.9c477b65f252a9982a6ea85a5668ae28.js": "/react-deploy/precache-manifest.9c477b65f252a9982a6ea85a5668ae28.js",
-    "service-worker.js": "/react-deploy/service-worker.js",
-    "static/css/main.31314469.chunk.css.map": "/react-deploy/static/css/main.31314469.chunk.css.map",
-    "static/js/2.d6c01270.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.d6c01270.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/react-deploy/static/media/background_photo_desktop.37be7357.jpg"
+    "main.css": "/Boxabi/static/css/main.92178b3f.chunk.css",
+    "main.js": "/Boxabi/static/js/main.ab4115c4.chunk.js",
+    "main.js.map": "/Boxabi/static/js/main.ab4115c4.chunk.js.map",
+    "runtime-main.js": "/Boxabi/static/js/runtime-main.061eff25.js",
+    "runtime-main.js.map": "/Boxabi/static/js/runtime-main.061eff25.js.map",
+    "static/js/2.d6c01270.chunk.js": "/Boxabi/static/js/2.d6c01270.chunk.js",
+    "static/js/2.d6c01270.chunk.js.map": "/Boxabi/static/js/2.d6c01270.chunk.js.map",
+    "index.html": "/Boxabi/index.html",
+    "precache-manifest.450e2c045cc5c7b1c2910f2f2ab93545.js": "/Boxabi/precache-manifest.450e2c045cc5c7b1c2910f2f2ab93545.js",
+    "service-worker.js": "/Boxabi/service-worker.js",
+    "static/css/main.92178b3f.chunk.css.map": "/Boxabi/static/css/main.92178b3f.chunk.css.map",
+    "static/js/2.d6c01270.chunk.js.LICENSE.txt": "/Boxabi/static/js/2.d6c01270.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Boxabi/static/media/background_photo_desktop.37be7357.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8d8e8d8.js",
+    "static/js/runtime-main.061eff25.js",
     "static/js/2.d6c01270.chunk.js",
-    "static/css/main.31314469.chunk.css",
-    "static/js/main.49ac0eb1.chunk.js"
+    "static/css/main.92178b3f.chunk.css",
+    "static/js/main.ab4115c4.chunk.js"
   ]
 }
